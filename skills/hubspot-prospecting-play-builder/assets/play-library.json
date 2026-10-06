@@ -1,0 +1,123 @@
+[
+  {
+    "play_id": "UC01",
+    "play": "Cold - New to Role",
+    "relationship": "Cold contact",
+    "trigger": "Job started or Executive hiring",
+    "offer_angle": "One responsibility relevant to the new role",
+    "required_evidence": "Verified current role, employer, date, offer fit",
+    "exclusions": "Unverified appointment, old address, active owner conversation",
+    "cta": "Is this area part of your remit?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC02",
+    "play": "Warm Account - Visitor Intent",
+    "relationship": "Warm account; contact may be cold",
+    "trigger": "Positive Visitor intent change",
+    "offer_angle": "A relevant offer matched to account context",
+    "required_evidence": "Qualifying company criteria and independent contact fit",
+    "exclusions": "Negative/exiting intent, unrelated visits, tracking disclosure",
+    "cta": "Is this a priority for your team?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC03",
+    "play": "Cold - Research Intent",
+    "relationship": "Cold contact",
+    "trigger": "Positive Research level change or Company Surge",
+    "offer_angle": "One issue tied to the actual research topic",
+    "required_evidence": "Topic relevance, account fit, current contact responsibility",
+    "exclusions": "Assumed individual research or buying intent",
+    "cta": "Is this topic relevant to your work?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC04",
+    "play": "Warm - Closed Lost / No-Show Reengagement",
+    "relationship": "Prior deal or booked meeting",
+    "trigger": "Closed Lost deal, or meeting outcome No show; the segment defines which (optionally plus a changed obstacle or agreed follow-up date)",
+    "offer_angle": "Reopen the earlier topic; if something changed since, lead with that",
+    "required_evidence": "Relevant deal or meeting, owner agreement; loss reason or meeting topic where recorded",
+    "exclusions": "Explicit refusal or opt-out, active deal, rescheduled meeting, owner already in conversation",
+    "cta": "Is the topic we discussed worth revisiting?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC05",
+    "play": "Warm - Service Specific",
+    "relationship": "Warm contact",
+    "trigger": "Known service interest plus relevant signal or CRM change",
+    "offer_angle": "Continue one documented service discussion",
+    "required_evidence": "Contact-level history, exact offer, fresh relevance",
+    "exclusions": "Only anonymous activity, conflicting active owner conversation",
+    "cta": "Would this approach help with the issue we discussed?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC06",
+    "play": "Cold - Hiring / Team Growth",
+    "relationship": "Cold contact",
+    "trigger": "Headcount increase",
+    "offer_angle": "One capacity, enablement, or process consideration",
+    "required_evidence": "Live relevant postings and offer connection",
+    "exclusions": "Stale jobs, presumed understaffing or replacement of hires",
+    "cta": "Is this part of your hiring plan?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC07",
+    "play": "Cold - Funding / Expansion",
+    "relationship": "Cold contact",
+    "trigger": "Funding, Geographic expansion, or Physical expansion",
+    "offer_angle": "One execution consideration connected to the stated initiative",
+    "required_evidence": "Event date, scope, responsible function",
+    "exclusions": "Invented budget, project stage, deadlines, or operational problem",
+    "cta": "Is this an area you are planning for?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC08",
+    "play": "Cold - M&A / Integration",
+    "relationship": "Cold contact",
+    "trigger": "Merger and acquisition or relevant asset/spinoff event",
+    "offer_angle": "One verified integration responsibility",
+    "required_evidence": "Transaction status, correct entities, contact remit",
+    "exclusions": "Assumed completed transaction, systems consolidation, or buying authority",
+    "cta": "Is this work part of the integration scope?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC09",
+    "play": "Warm - Event / Content Follow-up",
+    "relationship": "Warm contact with recorded activity",
+    "trigger": "Named-contact CRM activity; not News Event attendance alone",
+    "offer_angle": "Extend the specific topic with useful context",
+    "required_evidence": "Actual activity/date and permitted follow-up",
+    "exclusions": "Registration called attendance, anonymous visit, owner handling request",
+    "cta": "Would a practical perspective on this topic be useful?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC10",
+    "play": "Warm - Former Champion / New Company",
+    "relationship": "Known relationship; new account unqualified",
+    "trigger": "Job started plus real prior relationship",
+    "offer_angle": "Reconnect and check relevance in the new role",
+    "required_evidence": "New employer/role, relationship, account fit, owner agreement",
+    "exclusions": "Old employer assumptions, confidential details, wrong address",
+    "cta": "Is this relevant in your new role?",
+    "next_priority": "Assess for this client"
+  },
+  {
+    "play_id": "UC12",
+    "play": "Tiered Account Warm-Up",
+    "relationship": "Target account; contact usually cold",
+    "trigger": "Account tier (for example Tier 3 or 4 in the client's tier property), optionally combined with an intent signal",
+    "offer_angle": "Tier sets the approach: a lighter warm-up (useful insight, soft CTA) or a direct pitch; the client chooses per tier",
+    "required_evidence": "Populated tier property, segment by tier, contact fit",
+    "exclusions": "Accounts in active rep outreach, open deals, customers",
+    "cta": "Warm-up: Is this on your radar? Direct: Worth a short conversation?",
+    "next_priority": "Assess for this client"
+  }
+]

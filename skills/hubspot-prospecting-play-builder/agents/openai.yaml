@@ -1,0 +1,4 @@
+interface:
+  display_name: "HubSpot Prospecting Play Builder"
+  short_description: "Turn a company URL into a prepared HubSpot Play"
+  default_prompt: "Use $hubspot-prospecting-play-builder with my company URL to prepare a HubSpot Play and CRM reengagement guide."
