@@ -82,7 +82,7 @@ Credits are consumed per recommended or manually enrolled lead, with additional 
 
 Start with review before sending, one selected offer, and clear owner routing. Suggested starting frequency for Adaptive: Maximum emails per enrollment 3 to 4, Minimum days between emails 3 to 5; a weekly maximum is a more conservative option. Coordinate across plays so one contact is not in two. For Sequence, the same shape: 3 to 4 email steps, 3 to 5 business days apart. Label these recommendations; configure them through native controls, never through instruction text.
 
-For the default reply-first approach, recommend not configuring the book-a-meeting CTA. The owner shares a calendar link after interest. Do not repeatedly re-enroll silent contacts to bypass stop conditions. These are setup notes, not extra instruction copy.
+For the default reply-first approach, recommend not configuring the book-a-meeting CTA. The owner shares a calendar link after interest. If the client chooses the direct approach, configure that CTA and use the direct call-to-action section from the outreach methodology. Do not repeatedly re-enroll silent contacts to bypass stop conditions. These are setup notes, not extra instruction copy.
 
 ## Interface differences
 

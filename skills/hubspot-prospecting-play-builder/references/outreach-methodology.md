@@ -22,6 +22,21 @@ Explain these once, invite adjustments, and record the chosen version in the gui
 
 Client changes to length, tone, cadence, or CTA strategy are configurable choices. Make the actual instructions, examples, setup notes, and tests agree after a change. Do not call these preferences HubSpot requirements. User preferences cannot make an unsupported fact true or override product controls and contact opt-outs.
 
+## Match the CTA section to the client's choice
+
+The base's CALL TO ACTION AND MEETING LINKS section is written for the reply-first default. When the client chooses a direct approach (for example the direct tier of UC12, or a client who wants a meeting ask in the first touch), replace that whole section with the direct version below. Do not leave the reply-first section in place and add exceptions; the agent then receives two conflicting rules.
+
+Direct version, tailored to the client's approved next step:
+
+```text
+CALL TO ACTION AND MEETING LINKS
+This Play uses a direct approach: the first email may ask for a short conversation about the selected issue. Ask once per email, name a specific, modest commitment (for example a 15-minute call about the issue), and make it easy to decline. Use only the meeting link or CTA configured in Guardrails; never invent one. Do not escalate the ask because of opens, visits, or silence. Follow-ups keep their distinct jobs and may repeat the offer in different words, not the same closing.
+```
+
+One Play has one CTA approach. If a client wants warm-up for some tiers and direct for others, recommend one Play per approach, each with its own segment, instead of tier-conditional instructions in a single field. For Adaptive under the direct approach, the **Request contact to book a meeting** CTA in Guardrails is the native way to supply the link. Update the illustrative emails, setup guide, and `cta_policy` row so they all describe the same approach.
+
+The reply and link table below applies to the reply-first default. Under the direct approach, the owner still handles replies; only the automated emails change.
+
 ## Ground the instructions with one client exemplar
 
 Instructions made only of rules tend to produce flat, interchangeable emails. After tailoring the base, add one short first-touch exemplar built from verified client facts and a realistic (labeled) buyer situation, introduced as: "Example of shape and tone only. Do not reuse its wording or facts." Keep it under 70 words. Omit it when no verified facts support a credible example; never use a synthetic scenario inside paste-ready instructions.

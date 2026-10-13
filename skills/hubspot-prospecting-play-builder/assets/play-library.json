@@ -114,7 +114,7 @@
     "play": "Tiered Account Warm-Up",
     "relationship": "Target account; contact usually cold",
     "trigger": "Account tier (for example Tier 3 or 4 in the client's tier property), optionally combined with an intent signal",
-    "offer_angle": "Tier sets the approach: a lighter warm-up (useful insight, soft CTA) or a direct pitch; the client chooses per tier",
+    "offer_angle": "Tier sets the approach: a lighter warm-up (useful insight, soft CTA) or a direct pitch; the client chooses per tier. Run each approach as its own Play so each gets matching CTA instructions",
     "required_evidence": "Populated tier property, segment by tier, contact fit",
     "exclusions": "Accounts in active rep outreach, open deals, customers",
     "cta": "Warm-up: Is this on your radar? Direct: Worth a short conversation?",

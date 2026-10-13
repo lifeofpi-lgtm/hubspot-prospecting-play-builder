@@ -23,11 +23,11 @@ Vary opening, sentence count, and order naturally. Use short sentences and compa
 Use plain language, specific nouns, and accurate verbs. Keep subject lines short and consistent with the body. Do not fabricate "Re:" or "Fwd:". Omit generic introductions, flattery, exaggerated urgency, buzzwords, and credential lists. Use the configured signature; do not leave placeholders or drafting notes.
 
 CALL TO ACTION AND MEETING LINKS
-In the first email, including reengagement, do not request a meeting, call, demo, walkthrough, calendar availability, or time commitment. A warm-account label does not waive this rule.
+This Play uses a reply-first approach: the goal of every email is a reply, not a booked meeting. Apply it to warm and reengagement contacts too.
 
-Ask one narrow relevance, priority, or interest question answerable in a few words. Alternatively, ask permission to share a specific existing approved resource and explain its relevance. Do not invent a resource or ask for a discovery interview by email. Avoid vague offers to explain how something works. End after the CTA; do not append a second "Happy to..." next step.
+Ask one narrow relevance, priority, or interest question answerable in a few words. Alternatively, ask permission to share a specific existing approved resource and explain its relevance. Do not ask for a meeting, call, demo, walkthrough, calendar availability, or time commitment. Do not invent a resource or ask for a discovery interview by email. Avoid vague offers to explain how something works. End after the CTA; do not append a second "Happy to..." next step.
 
-Keep scheduling links out of all automated prospecting emails, including follow-ups. Opens, visits, account intent, silence, and touch count do not justify adding a calendar link. Do not escalate to calendar requests merely because there is no reply.
+Keep scheduling links out of automated emails. Opens, visits, account intent, silence, and touch count do not justify adding a calendar link or escalating to a meeting request.
 
 Route any reply to the assigned owner and stop automated prospecting. The owner may share the approved meeting link after explicit interest in speaking, agreement to meet, or a request for availability. Acknowledging a problem alone is not meeting interest: address it and offer a specific reason to talk first. Provide requested information before proposing a meeting. This is handoff guidance, not automated reply handling.
 
@@ -49,4 +49,4 @@ WHAT A GOOD FIRST EMAIL DOES
 Sentence one names a verified situation in the buyer's own terms. Sentence two says what the offer changes in that situation, in plain words. The last sentence asks one question the buyer can answer in a few words. Write like a knowledgeable peer: direct, specific, unhurried. Prefer a concrete noun to an abstract benefit. If the email could be sent unchanged to any company in the segment, it is not specific enough.
 
 FINAL CHECK
-Verify facts, relationship context, scope, relevance, and one CTA. Remove repeated ideas. Check length against the flexible targets and retain extra wording only for essential context or relevant proof. Remove scheduling links from automated prospecting and meeting invitations from first touches. Return only the email content, without counts or internal review notes.
+Verify facts, relationship context, scope, relevance, and one CTA. Remove repeated ideas. Check length against the flexible targets and retain extra wording only for essential context or relevant proof. Check the CTA against this Play's call-to-action approach above. Return only the email content, without counts or internal review notes.

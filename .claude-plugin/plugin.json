@@ -1,7 +1,7 @@
 {
   "name": "hubspot-prospecting-play-builder",
-  "description": "Research a company URL and prepare a grounded, launch-ready HubSpot Prospecting Agent play: selling context, outreach instructions, signals, CRM re-engagement, launch readiness, and a setup workbook.",
-  "version": "1.1.0",
+  "description": "Research a company URL and prepare a grounded, reviewable HubSpot Prospecting Agent play kit: selling context, outreach instructions, signals, CRM re-engagement, launch readiness, and a setup workbook.",
+  "version": "1.2.0",
   "author": { "name": "lifeofpi-lgtm" },
   "repository": "https://github.com/lifeofpi-lgtm/hubspot-prospecting-play-builder",
   "license": "MIT"

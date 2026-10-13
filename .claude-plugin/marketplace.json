@@ -7,8 +7,8 @@
   "plugins": [
     {
       "name": "hubspot-prospecting-play-builder",
-      "description": "Research a company URL and prepare a grounded, launch-ready HubSpot Prospecting Agent play.",
-      "version": "1.1.0",
+      "description": "Research a company URL and prepare a grounded, reviewable HubSpot Prospecting Agent play kit.",
+      "version": "1.2.0",
       "source": "./",
       "author": {
         "name": "lifeofpi-lgtm"

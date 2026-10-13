@@ -87,7 +87,7 @@ The skill walks through four stages, asking at most three focused questions at a
   - **Sequence:** steps with per-step smart blocks and Custom Prompt instructions. The skill writes a delay, a purpose, block names, and self-contained prompt instructions for each step.
 - Default editorial choices, all adjustable by the client:
   - first touches of roughly 35 to 60 words, follow-ups 20 to 40;
-  - one issue and one easy question per email, with no meeting request in the first touch and no calendar links in automated emails;
+  - one issue and one easy question per email, with no meeting request in the first touch and no calendar links in automated emails (a direct meeting-ask version replaces this when the client chooses it, one approach per play);
   - follow-ups that each do a different job: make it concrete, sharpen the question, close the loop;
   - 3 to 4 emails, 3 to 5 days apart, set through HubSpot's native frequency controls;
   - strict evidence rules: no invented budgets, problems, familiarity, or results, and no mention of tracking or website visits.
@@ -221,6 +221,7 @@ skills/hubspot-prospecting-play-builder/
 
 ## Status and limitations
 
+- Version 1.2.0, updated 2026-10-13: the call-to-action section of the instruction base now has a direct-approach version that replaces the reply-first default when the client chooses it, so the agent never receives two conflicting CTA rules.
 - Version 1.1.0, updated 2026-10-02 to match HubSpot's current play editor (Adaptive and Sequence methods, Agent Hub context, documented enrollment routes) and to add launch readiness and stronger follow-up guidance.
 - The skill has been exercised on synthetic scenarios and its helper has structural tests. It has **not yet been validated against a live HubSpot account's Test output**. Treat the first real run as a pilot and review every draft the agent produces.
 - HubSpot documents no character limits for these fields. The 10,000-character ceiling for Advanced instructions comes from an observed account.
