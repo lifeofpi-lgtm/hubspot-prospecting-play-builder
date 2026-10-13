@@ -145,7 +145,7 @@ Current as of HubSpot's setup article dated 2026-09-30:
 
 | Play editor tab | What the skill prepares |
 | --- | --- |
-| Audience | Segment and exclusion filter specs, signals (48 native signals catalogued), personas, a daily suggestion limit tied to budget |
+| Audience | Segment and exclusion filter specs, signals (49 signals catalogued), personas, a daily suggestion limit tied to budget |
 | Selling context | The three fields, and which Products & Services entries to select |
 | Outreach | Method choice, plus Advanced instructions or per-step prompts and frequency settings |
 | Guardrails | Sender routing, tone or brand voice, CTA choice and Description text, send window |
@@ -212,7 +212,7 @@ skills/hubspot-prospecting-play-builder/
     validation-scenarios.md             behavioral review scenarios
   assets/
     advanced-instructions-base.txt      tailorable outreach instruction base
-    signal-catalog.json                 48 native signals with meanings and recommendations
+    signal-catalog.json                 49 signals with meanings and recommendations
     play-library.json                   eleven adaptable example plays
     crm-recipes.json                    eight CRM re-engagement mapping patterns
   scripts/kit.py                        validation and CSV export

@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-09-24",
+  "checked_on": "2026-10-13",
   "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
   "source_table": "Intent signal types",
-  "catalog_count": 48,
-  "documented_count": 46,
+  "catalog_count": 49,
+  "documented_count": 47,
   "account_availability": "unverified",
   "reference_ui_observation": {
     "observed_on": "2026-09-25",
     "picker_count": 48,
     "scope": "A HubSpot portal picker, native signals only",
     "reconciled": true,
-    "note": "48 native options = 46 documented + 2 observed in the picker (Key stakeholder identified, Painpoint). Portals can also show custom signals (portal-specific, not catalogued) and integration signals such as Job change by UserGems when installed. Some picker labels differ from documentation; see ui_label."
+    "note": "The 2026-09-25 picker showed 48 native options = 46 documented + 2 observed in the picker (Key stakeholder identified, Painpoint). Job change by UserGems is documented but appears only when the UserGems integration is installed, so it was not in that picker. Portals can also show custom signals (portal-specific, not catalogued). Some picker labels differ from documentation; see ui_label."
   },
   "signals": [
     {
@@ -27,7 +27,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation",
       "ui_label": "Visitor intent"
     },
@@ -44,7 +44,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation",
       "ui_label": "Research"
     },
@@ -61,7 +61,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -77,7 +77,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -93,7 +93,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -109,7 +109,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -125,7 +125,7 @@
       "posture": "Hold or owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -141,7 +141,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -157,7 +157,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -173,7 +173,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -189,7 +189,7 @@
       "posture": "Research only",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -205,7 +205,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -221,7 +221,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -237,7 +237,7 @@
       "posture": "Verify contact activity",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -253,7 +253,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -269,7 +269,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -285,7 +285,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -301,7 +301,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -317,7 +317,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -333,7 +333,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -349,7 +349,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -365,7 +365,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -381,7 +381,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -397,7 +397,7 @@
       "posture": "Research only",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -413,7 +413,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -429,7 +429,7 @@
       "posture": "Hold or owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -445,7 +445,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation",
       "ui_label": "Layoff"
     },
@@ -462,7 +462,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -478,7 +478,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation",
       "ui_label": "Mergers and acquisitions"
     },
@@ -495,7 +495,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -511,7 +511,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -527,7 +527,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -543,7 +543,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -559,7 +559,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -575,7 +575,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -591,7 +591,7 @@
       "posture": "Owner review",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -607,7 +607,7 @@
       "posture": "Research only",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -623,7 +623,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -639,7 +639,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -655,7 +655,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -671,7 +671,7 @@
       "posture": "Research only",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -687,7 +687,7 @@
       "posture": "Investigate",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation",
       "ui_label": "Company Surge (by Bombora)"
     },
@@ -704,7 +704,7 @@
       "posture": "Hold",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -720,7 +720,7 @@
       "posture": "Verify current employer",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -736,7 +736,23 @@
       "posture": "Hold",
       "availability": "Documented; client account and enrollment surface unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
+      "source_type": "public_documentation"
+    },
+    {
+      "signal_id": "job-change-by-usergems",
+      "signal": "Job change by UserGems",
+      "category": "Job change",
+      "object_level": "Contact",
+      "meaning": "A contact changes jobs, detected by UserGems rather than HubSpot's native job change source",
+      "prerequisites": "UserGems integration installed; contact associated with a tracked company; verify identity, current employer, and usable contact details before outreach.",
+      "use_cases": "UC01,UC10",
+      "crm_reengagement": "Same handling as Job started; can be combined with the native job change signals for coverage. Deduplicate so one move does not enroll a contact twice.",
+      "recipe_id": "R05",
+      "posture": "Verify current employer",
+      "availability": "Documented; requires the UserGems integration; client account and enrollment surface unverified",
+      "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation"
     },
     {
@@ -776,7 +792,7 @@
       "category": "CRM",
       "availability": "Documented (page updated 2026-09-16) and observed in a portal picker; client account unverified",
       "source_url": "https://knowledge.hubspot.com/reports/use-intent-signals",
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-13",
       "source_type": "public_documentation",
       "posture": "Hold",
       "prerequisites": "Recorded native signal from conversations (emails, transcripts, notes); contact linked to company, company linked to an existing deal.",
