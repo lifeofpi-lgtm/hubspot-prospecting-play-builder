@@ -1,5 +1,7 @@
 # HubSpot Prospecting Play Builder
 
+<img src="media/play-builder.webp" alt="Animation: a company URL fans out into audience, selling context, and signal cards, which snap into a play and fold into a five-tab setup workbook" width="800">
+
 A Claude Code skill that turns a company URL into a grounded, reviewable setup kit for **HubSpot's Prospecting Agent**: the selling context, outreach instructions, audience and signal choices, CRM re-engagement plan, launch-readiness checks, and a setup workbook. A person then uses the kit to configure HubSpot.
 
 The skill prepares. It never publishes plays, enrolls contacts, spends HubSpot Credits, or sends email.
